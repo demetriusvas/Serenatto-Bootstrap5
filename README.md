@@ -7,9 +7,20 @@ Demo - [Serenatto](https://google.com/)
 
 ## 🛠️ O que aprendi nesse curso:
 
-:heavy_check_mark: Avançando no Bootstrap
+:heavy_check_mark: Iniciando o projeto
+* Texto
 
-* Integrar o Bootstrap a um projeto;
+:heavy_check_mark: Componentes do Bootstrap
+* Texto
+
+:heavy_check_mark: Estilizando Cards e Modais
+* Texto
+
+:heavy_check_mark: Formulário com Bootstrap
+* Texto
+
+:heavy_check_mark: Modo Noturno com Bootstrap
+* Texto
 
 
 
