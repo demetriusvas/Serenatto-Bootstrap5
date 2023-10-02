@@ -8,7 +8,13 @@ Demo - [Serenatto](https://google.com/)
 ## 🛠️ O que aprendi nesse curso:
 
 :heavy_check_mark: Iniciando o projeto
-* Texto
+* Integrar o Bootstrap em um projeto;
+* Inserir componentes da documentação em um projeto;
+* Responsividade com Bootstrap;
+* Inserir efeito Parallax com CSS;
+* Aplicar efeito translúcido com Bootstrap;
+* Estilizando inputs;
+* Inserindo fontes.
 
 :heavy_check_mark: Componentes do Bootstrap
 * Texto
