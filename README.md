@@ -33,7 +33,11 @@ Demo - [Serenatto](https://google.com/)
 * Aplicou cor no input range do Bootstrap.
 
 :heavy_check_mark: Modo Noturno com Bootstrap
-* Texto
+* Aplicar modo noturno em um projeto;
+* Fazer alterações no tema de modo noturno do Bootstrap com CSS;
+* Implementar método para alterar a página entre modo claro e modo noturno, utilizando JavaScript;
+* Integrar a biblioteca de ícones do Bootstrap: Bootstrap Icons;
+* Aplicar ícones no projeto construindo o rodapé.
 
 
 
