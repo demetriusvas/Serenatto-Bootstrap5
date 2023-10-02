@@ -17,7 +17,9 @@ Demo - [Serenatto](https://google.com/)
 * Inserindo fontes.
 
 :heavy_check_mark: Componentes do Bootstrap
-* Texto
+* Pegar novos componentes da documentação;
+* Unir diferentes componentes em um projeto;
+* Analisar as diferentes classes de container.
 
 :heavy_check_mark: Estilizando Cards e Modais
 * Texto
