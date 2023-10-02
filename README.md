@@ -22,7 +22,9 @@ Demo - [Serenatto](https://google.com/)
 * Analisar as diferentes classes de container.
 
 :heavy_check_mark: Estilizando Cards e Modais
-* Texto
+* Inserir componente de cards no projeto;
+* Organizar elementos na tela de forma responsiva com Grid e Breakpoints;
+* Inserir componentes de modal em um projeto.
 
 :heavy_check_mark: Formulário com Bootstrap
 * Texto
