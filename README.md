@@ -27,7 +27,10 @@ Demo - [Serenatto](https://google.com/)
 * Inserir componentes de modal em um projeto.
 
 :heavy_check_mark: Formulário com Bootstrap
-* Texto
+* Criar um formulário unindo componentes do Bootstrap;
+* Entendeu a importância da semântica no código HTML;
+* Aplicou responsividade no formulário;
+* Aplicou cor no input range do Bootstrap.
 
 :heavy_check_mark: Modo Noturno com Bootstrap
 * Texto
